@@ -74,6 +74,11 @@ class Programmer_calculator(Calculator):
                 num2 = int(input("Enter second number:"))
                 num1 = num1 - num2
                 return num1
+
+        def Increment():
+                num1 = int(input("Enter number:"))
+                num1 = num1 + 1
+                return num1
 print("1.Calculator")
 print("2.Engineering calculator")
 print("3.Proggrammer calculator")
