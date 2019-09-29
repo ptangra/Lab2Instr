@@ -79,6 +79,12 @@ class Programmer_calculator(Calculator):
                 num1 = int(input("Enter number:"))
                 num1 = num1 + 1
                 return num1
+
+        def Decrement():
+                num1 = int(input("Enter number:"))
+                num1 = num1 - 1
+                return num1
+                
 print("1.Calculator")
 print("2.Engineering calculator")
 print("3.Proggrammer calculator")
