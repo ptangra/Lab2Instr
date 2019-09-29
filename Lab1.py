@@ -59,6 +59,11 @@ class Programmer_calculator(Calculator):
                 num2 = int(input("Enter second number:"))
                 return num1 or num2
 
+        def LogicalNot():
+                num1 = int(input("Enter first number:"))
+                return not num1
+
+
 print("1.Calculator")
 print("2.Engineering calculator")
 print("3.Proggrammer calculator")
