@@ -58,6 +58,11 @@ class Programmer_calculator(Calculator):
                 num1 = int(input("Enter first number:"))
                 num2 = int(input("Enter second number:"))
                 return num1 or num2
+                
+class New_class():
+        def ByIra():
+                print("Hello, Petar!")
+             
 
 print("1.Calculator")
 print("2.Engineering calculator")
