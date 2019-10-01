@@ -1,0 +1,6 @@
+[submodule "PIA_Lab1"]
+	path = PIA_Lab1
+	url = https://github.com/ptangra/PIA_Lab1.git
+[submodule "OPI_Lab_2"]
+	path = OPI_Lab_2
+	url = https://github.com/ptangra/OPI_Lab_2.git
